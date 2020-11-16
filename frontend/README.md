@@ -17,4 +17,4 @@ product-delete, product-read, product-update. Foi criado o model product-model e
 service product.service;
 - Foi criado na pasta \directives\ o arquivo red.directives.ts;
 - Foi criado na pasta \views os componentes home e product-crud
-- 
+
