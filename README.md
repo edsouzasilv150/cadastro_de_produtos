@@ -16,5 +16,6 @@ footer\header\nav e na pasta header foi criado o service header.service;
 product-delete, product-read, product-update. Foi criado o model product-model e o
 service product.service;
 - Foi criado na pasta \directives\ o arquivo red.directives.ts;
-- Foi criado na pasta \views os componentes home e product-crud
+- Foi criado na pasta \views os componentes home e product-crud;
+- Criado o roteamento entre os components no arquivo app-rounting.modules.
 
