@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "Refrigerador Consul Frost Free",
+      "price": "1899",
+      "id": 1
+    },
+    {
+      "name": "Refrigerador Brastemp BRM44HK",
+      "price": "2399",
+      "id": 2
+    },
+    {
+      "name": "Lavadora de Roupas Electrolux 11Kg ",
+      "price": "1399",
+      "id": 3
+    },
+    {
+      "name": "Smart TV LED 50\" UHD 4K LG 50UN8000PSD Wi-Fi, Bluetooth",
+      "price": "2208",
+      "id": 4
+    },
+    {
+      "name": "Smart TV LED 32\" HD Samsung",
+      "price": "1199",
+      "id": 5
+    },
+    {
+      "name": "Fogão 4 Bocas Consul CFO4VAR",
+      "price": "1199",
+      "id": 6
+    },
+    {
+      "name": "Fogão Brastemp 4 Bocas BFO4NAB ",
+      "price": "899",
+      "id": 7
+    },
+    {
+      "name": "Forno de Micro-ondas Electrolux",
+      "price": "699",
+      "id": 8
+    },
+    {
+      "name": "Forno de Micro-ondas Continental",
+      "price": "479",
+      "id": 9
+    },
+    {
+      "name": "Forno Elétrico de Embutir",
+      "price": "1199",
+      "id": 10
+    }
+  ]
+}
